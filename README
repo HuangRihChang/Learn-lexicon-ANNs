@@ -1,0 +1,3 @@
+Python train được chạy trên nền tảng python3.4
+do môi trường lập trình là windows nên thư viện theano không hộ trợ python2.
+Còn những file khác đều chạy trên python2.7 bình thường
